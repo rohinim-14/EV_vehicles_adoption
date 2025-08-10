@@ -2,6 +2,11 @@
 
 Dashboard analyzing electric vehicle adoption/market analysis in Washington State using real-time data from the Washington Department of Licensing (DOL).
 
+## About
+
+ **[Medium Article](https://medium.com/@_rohinim/build-a-data-driven-ev-dashboard-with-streamlit-and-python-1944016f6c75/)**
+
+
 ## Features
 1. Real-time EV registration data analysis
 2. Interactive visualizations with Plotly
