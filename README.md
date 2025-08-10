@@ -1,6 +1,6 @@
 # Washington State EV Market Analysis
 
-Dashboard analyzing electric vehicle adoption in Washington State using real-time data from the Washington Department of Licensing (DOL).
+Dashboard analyzing electric vehicle adoption/market analysis in Washington State using real-time data from the Washington Department of Licensing (DOL).
 
 ## Features
 1. Real-time EV registration data analysis
@@ -11,7 +11,7 @@ Dashboard analyzing electric vehicle adoption in Washington State using real-tim
 6. Filterable data exports
 
 ## Live App
- **[View Live Dashboard](https://your-app-name.streamlit.app)**
+ **[View Live Dashboard](https://ev-vehicles-rm.streamlit.app/)**
 
 ## Local Development
 ```bash
